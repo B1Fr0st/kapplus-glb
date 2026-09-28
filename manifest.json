@@ -4,11 +4,11 @@
   "buildId": "ba7382d308012515",
   "sourceSha256": "ba7382d308012515f41718e6a2746cd57ad6088224fd2c9550697423cd9ed5b7",
   "sourceBytes": 19105148,
-  "bootstrapBytes": 2487,
+  "bootstrapBytes": 2489,
   "liveBootstrap": {
     "file": "bootstrap.js",
-    "bytes": 4247,
-    "sha256": "a31293733af914e9ae121868ef85b72c90d7b7804a4c38c153e900a3b63fe38e"
+    "bytes": 4347,
+    "sha256": "1ab3cc62d927adb9cb73c588ede2d4524a5195bacea9d61804159b73bb6962c0"
   },
   "chunkCount": 10,
   "chunks": [

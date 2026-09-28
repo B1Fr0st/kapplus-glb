@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "project": "GLB Shaded Rasterizer",
+  "buildId": "a11e6c0387632c1f",
+  "sourceSha256": "a11e6c0387632c1f20d398a21437f957b961530c5f920b5ead7842d8698da177",
+  "sourceBytes": 2211992,
+  "bootstrapBytes": 3401,
+  "chunkCount": 10,
+  "chunks": [
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-0.js",
+      "bytes": 221460,
+      "sha256": "d1bd883a9f870afcafd52e6270190d146f23e8afd71b92a8964d08fffe95b30c"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-1.js",
+      "bytes": 221385,
+      "sha256": "889ff78f88ea16deabc8171f069dac0ef902cfa0102ea0717f39245a0a15e2bf"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-2.js",
+      "bytes": 221387,
+      "sha256": "a4a5b03ab082b54a9c3fbb62dca4332c0560ebb06ba2dbd00a3e24ef47ca116f"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-3.js",
+      "bytes": 221387,
+      "sha256": "ab404493e0f16201e14e11fd24bd946146e98a4ab4b048f86741cee6cbbc4234"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-4.js",
+      "bytes": 221388,
+      "sha256": "4f62e4232a59624e3e99da5083d85aac59e5c965ff33c5ded705a361773de11b"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-5.js",
+      "bytes": 221423,
+      "sha256": "71303f566519ae7744217bbb917e2ccb7847458e94490c69d5f7dc4635790757"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-6.js",
+      "bytes": 221423,
+      "sha256": "8beb90ea353170c62eb8940749e3c1823feff4aae3b45764d1e25456c304a1b6"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-7.js",
+      "bytes": 221453,
+      "sha256": "2e596f20496e813c6a74ce83774202cc5c09812f050b8a9341438c79916d08ad"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-8.js",
+      "bytes": 221473,
+      "sha256": "357b8a65801ef6d8d1c71ea8c9a4ecdd1c0bb9cfbdacc569c31eefe6f056bbe0"
+    },
+    {
+      "file": "chunks/a11e6c0387632c1f/chunk-9.js",
+      "bytes": 221436,
+      "sha256": "dd55477b13c6dad6e814a7e3a9c03065261561e010b9404ac5265f3f22145927"
+    }
+  ]
+}

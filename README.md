@@ -3,7 +3,7 @@
 Published by KAP+. Paste `program.js` into Khan Academy; it loads the immutable,
 content-addressed JavaScript chunks through jsDelivr.
 
-- Build ID: `41f3f24fdad0d82f`
-- Original Khan source: 19,104,253 bytes
-- Khan bootstrap: 3,706 bytes
-- Source SHA-256: `41f3f24fdad0d82fb579a5cebeafc1b77741986d47de8626b61f4a3d3c2f843c`
+- Build ID: `5076b95e56c41498`
+- Original Khan source: 19,105,087 bytes
+- Khan bootstrap: 4,001 bytes
+- Source SHA-256: `5076b95e56c414984ad6a5e98ce4460d19f7b74935e32c3952e34f442ed89d32`

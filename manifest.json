@@ -1,66 +1,66 @@
 {
   "format": 1,
   "project": "GLB Shaded Rasterizer",
-  "buildId": "60e696ac8fa554e9",
-  "sourceSha256": "60e696ac8fa554e9a1635b75e02e291f5551ea4d281a7f55840794c5e9de7c0e",
-  "sourceBytes": 19118245,
-  "bootstrapBytes": 2924,
+  "buildId": "01fa0a952d084bc1",
+  "sourceSha256": "01fa0a952d084bc11f5620f0c9373b9eb4c110f5562c63525ff4e839876df86d",
+  "sourceBytes": 19122079,
+  "bootstrapBytes": 4771,
   "liveBootstrap": {
     "file": "bootstrap.js",
-    "bytes": 4513,
-    "sha256": "f171d5fbf61a53e6de6f42bb628ca2e6a7f81e4f8e378ce07bd5309a20c267c8"
+    "bytes": 6047,
+    "sha256": "ff30464560140a9d6820535a45cc6b07f2308659cb9f94ba89d6023cae2a142e"
   },
   "chunkCount": 10,
   "chunks": [
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-0.js",
-      "bytes": 1912510,
-      "sha256": "e5b28f40d315aded3c8cef0172399da3af289671ed1f324a546697661628ef1d"
+      "file": "chunks/01fa0a952d084bc1/chunk-0.js",
+      "bytes": 1913058,
+      "sha256": "a7d93f3c2de11831a8f1382e8ea5c6399a208e137cdf014cf39e7d6c9d932e09"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-1.js",
-      "bytes": 1912013,
-      "sha256": "e24ad86955d01504eb8a8773dd12d4a202aa3c290c6b5a00545b7db57beda805"
+      "file": "chunks/01fa0a952d084bc1/chunk-1.js",
+      "bytes": 1912396,
+      "sha256": "4b49da65d49ba654ddcc31d2c8af49020bb7ba6d3165b1784a922566adefd103"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-2.js",
-      "bytes": 1912014,
-      "sha256": "5e5e188d5def40a269c441503d177561e3177d15eeb38e0e8d4907797fc297ec"
+      "file": "chunks/01fa0a952d084bc1/chunk-2.js",
+      "bytes": 1912398,
+      "sha256": "48542346715f6cde53f3356afc3de2da7269a111e3ec0b6d1330c9b4e445303f"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-3.js",
-      "bytes": 1912015,
-      "sha256": "e7a1c6741bfab07aea34fb7bb881bc2ca184571822f32559f4b4bfb6c11e3003"
+      "file": "chunks/01fa0a952d084bc1/chunk-3.js",
+      "bytes": 1912398,
+      "sha256": "116585cdddf77848d19491fd41c067319277357573453834bf86f736b13377f7"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-4.js",
-      "bytes": 1912008,
-      "sha256": "d1c8f9fc25bbc612e971d59ac58f3d4f0389c6dc77890b86232b9aeaf2e2eb16"
+      "file": "chunks/01fa0a952d084bc1/chunk-4.js",
+      "bytes": 1912392,
+      "sha256": "aa195da42c346098ab0b05132d16309bf2dc378d473fe7a1efbdf2f21bfca400"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-5.js",
-      "bytes": 1912029,
-      "sha256": "765396296d487671bd7f762bd1674c346e8f69781b2a00802a8320b6d05e09c1"
+      "file": "chunks/01fa0a952d084bc1/chunk-5.js",
+      "bytes": 1912412,
+      "sha256": "4914bef1ffd2d03201efdc26039075aa94066a10ee8a6c3fd87792d1687e5dfa"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-6.js",
-      "bytes": 1912048,
-      "sha256": "ea4ef62e4c590e724abfac5b5f91d3772c03235c6e528b8606b45cb56d1772d4"
+      "file": "chunks/01fa0a952d084bc1/chunk-6.js",
+      "bytes": 1912432,
+      "sha256": "2f8935f728ad920ea4497ca1e0c0dd6673beeda09a419a767e885ef4e2c3716a"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-7.js",
-      "bytes": 1912093,
-      "sha256": "418a9ac35d3687ba87888e896c82c41655f65e8071993147278a6c340200d334"
+      "file": "chunks/01fa0a952d084bc1/chunk-7.js",
+      "bytes": 1912476,
+      "sha256": "7b04be7a97e58ea715775ca3aa5c92724e858404ffc42b8dc45f99b04df229d8"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-8.js",
-      "bytes": 1912194,
-      "sha256": "0e070866de8dd9f66ced51d283f47e3f158cf0bc0556ca12e169d7103a746064"
+      "file": "chunks/01fa0a952d084bc1/chunk-8.js",
+      "bytes": 1912578,
+      "sha256": "95696efb4def4e9362fde2eab249ce8cf04bbce36fbcfe903c94ded7e0df1a0e"
     },
     {
-      "file": "chunks/60e696ac8fa554e9/chunk-9.js",
-      "bytes": 1912080,
-      "sha256": "60f1c0e686e37e8933f7ee11ca2452ac3f4d4a9444a1f7ef10bd155c42211998"
+      "file": "chunks/01fa0a952d084bc1/chunk-9.js",
+      "bytes": 1912463,
+      "sha256": "5bf96eac97c0b9175aa61dbf54cf1f9f4bb7859b2ef5cfe8adddef230f02ee74"
     }
   ]
 }

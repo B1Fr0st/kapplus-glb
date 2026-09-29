@@ -1,66 +1,66 @@
 {
   "format": 1,
   "project": "GLB Shaded Rasterizer",
-  "buildId": "01fa0a952d084bc1",
-  "sourceSha256": "01fa0a952d084bc11f5620f0c9373b9eb4c110f5562c63525ff4e839876df86d",
-  "sourceBytes": 19122079,
+  "buildId": "dad2cbecf6249aeb",
+  "sourceSha256": "dad2cbecf6249aeb1036c4b60cfebc49ca34665b81af1f5e5a8f2691e0079e1c",
+  "sourceBytes": 23030887,
   "bootstrapBytes": 4771,
   "liveBootstrap": {
     "file": "bootstrap.js",
-    "bytes": 6047,
-    "sha256": "ff30464560140a9d6820535a45cc6b07f2308659cb9f94ba89d6023cae2a142e"
+    "bytes": 6042,
+    "sha256": "54ef21a6d2ef09e1c5406f32354191147441995f7e9aa28595eeff4b930e7b1f"
   },
   "chunkCount": 10,
   "chunks": [
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-0.js",
-      "bytes": 1913058,
-      "sha256": "a7d93f3c2de11831a8f1382e8ea5c6399a208e137cdf014cf39e7d6c9d932e09"
+      "file": "chunks/dad2cbecf6249aeb/chunk-0.js",
+      "bytes": 2303998,
+      "sha256": "977e87dcc002e59cf3829f36c5c54b65d6975ea8068dcc76ad2b8254d317068b"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-1.js",
-      "bytes": 1912396,
-      "sha256": "4b49da65d49ba654ddcc31d2c8af49020bb7ba6d3165b1784a922566adefd103"
+      "file": "chunks/dad2cbecf6249aeb/chunk-1.js",
+      "bytes": 2303283,
+      "sha256": "e6d41e82a3dcc6747b5a1120eec219b525cce3e955c6b06f45a3f605765741bf"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-2.js",
-      "bytes": 1912398,
-      "sha256": "48542346715f6cde53f3356afc3de2da7269a111e3ec0b6d1330c9b4e445303f"
+      "file": "chunks/dad2cbecf6249aeb/chunk-2.js",
+      "bytes": 2303279,
+      "sha256": "7f2b0b8bbfca4c9c6a756025cc7214e0a74f9b16544c63f9f9113cf487992261"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-3.js",
-      "bytes": 1912398,
-      "sha256": "116585cdddf77848d19491fd41c067319277357573453834bf86f736b13377f7"
+      "file": "chunks/dad2cbecf6249aeb/chunk-3.js",
+      "bytes": 2303272,
+      "sha256": "97f5da5a407321326bf676ea72d20a7e8bca19351b7ee14d0f5e132800fba877"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-4.js",
-      "bytes": 1912392,
-      "sha256": "aa195da42c346098ab0b05132d16309bf2dc378d473fe7a1efbdf2f21bfca400"
+      "file": "chunks/dad2cbecf6249aeb/chunk-4.js",
+      "bytes": 2303293,
+      "sha256": "43e21a40fa084e2e545a66ae4e84c84b4fec309b8a4d2740fee43bf375f4c297"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-5.js",
-      "bytes": 1912412,
-      "sha256": "4914bef1ffd2d03201efdc26039075aa94066a10ee8a6c3fd87792d1687e5dfa"
+      "file": "chunks/dad2cbecf6249aeb/chunk-5.js",
+      "bytes": 2303355,
+      "sha256": "327739f5bce107e4bb0ab4c7aa2ead93af9ecfcb60b48caacf20b23b7a57b8c5"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-6.js",
-      "bytes": 1912432,
-      "sha256": "2f8935f728ad920ea4497ca1e0c0dd6673beeda09a419a767e885ef4e2c3716a"
+      "file": "chunks/dad2cbecf6249aeb/chunk-6.js",
+      "bytes": 2303354,
+      "sha256": "74178a55a6f3ecf30969d9da9e852381fcaf0d572a394927163826d0f3f78a20"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-7.js",
-      "bytes": 1912476,
-      "sha256": "7b04be7a97e58ea715775ca3aa5c92724e858404ffc42b8dc45f99b04df229d8"
+      "file": "chunks/dad2cbecf6249aeb/chunk-7.js",
+      "bytes": 2303461,
+      "sha256": "677bfa0c22400fe890e7bf4fc5a7d18d593d208c54dec5a40f72e651fd99ccb6"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-8.js",
-      "bytes": 1912578,
-      "sha256": "95696efb4def4e9362fde2eab249ce8cf04bbce36fbcfe903c94ded7e0df1a0e"
+      "file": "chunks/dad2cbecf6249aeb/chunk-8.js",
+      "bytes": 2303625,
+      "sha256": "2cd0b2180040b2892151f980dc61807029a0c49070f21862ec69c01b927fc0b1"
     },
     {
-      "file": "chunks/01fa0a952d084bc1/chunk-9.js",
-      "bytes": 1912463,
-      "sha256": "5bf96eac97c0b9175aa61dbf54cf1f9f4bb7859b2ef5cfe8adddef230f02ee74"
+      "file": "chunks/dad2cbecf6249aeb/chunk-9.js",
+      "bytes": 2303318,
+      "sha256": "299048390d84ac24146a15d3000c2c71a8e9ee5086690bef11b6bfcc0f56e99a"
     }
   ]
 }

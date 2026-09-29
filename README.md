@@ -4,7 +4,7 @@ Published by KAP+. Paste `program.js` into Khan Academy. When present, the
 stable first-stage program loads `bootstrap.js`, which selects the current
 content-addressed JavaScript chunks through jsDelivr.
 
-- Build ID: `10c955174903257d`
-- Original Khan source: 19,119,849 bytes
+- Build ID: `60e696ac8fa554e9`
+- Original Khan source: 19,118,245 bytes
 - Khan bootstrap: 2,924 bytes
-- Source SHA-256: `10c955174903257d28aeb5437fbdfe7712de565d9f12f848a695d2e95ae72d40`
+- Source SHA-256: `60e696ac8fa554e9a1635b75e02e291f5551ea4d281a7f55840794c5e9de7c0e`
